@@ -1,0 +1,28 @@
+#banner{
+    background-color: #8B5FBF ;
+    padding: 0rem 20rem ;
+    padding-top: 5rem;
+    color: #ECECEC;
+}
+
+#banner button{
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: #FFD700;
+    margin-top: 20px;
+    font-size: 22px;
+    transition: 1s;
+  }
+
+#banner button:hover{
+  border: rgba(255,255,255,0.5) solid 2px ;
+  color: #8B5FBF;
+
+  }
+
+  #banner h1,h2{
+    font-size: 26px;
+    margin-bottom: 5px;
+  }

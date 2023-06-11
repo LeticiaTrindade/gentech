@@ -1,0 +1,15 @@
+#bannerDark{
+    background-color: #260D44 ;
+    padding: 0rem 20rem ;
+    padding-top: 5rem;
+    color: #ECECEC;
+    min-height: 440px;
+}
+
+
+#bannerDark h1{
+    font-size: 50px;
+  }
+#bannerDark h2{
+    font-size: 20px;
+  }

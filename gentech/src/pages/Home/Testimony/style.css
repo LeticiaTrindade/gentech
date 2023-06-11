@@ -1,0 +1,33 @@
+#testimony h1{
+    margin: 4rem;
+}
+
+#user{
+    height: 70px;
+    border-radius: 100%;
+}
+
+.carousel-caption{
+    min-height: 225px;
+    max-height: 250px;
+   
+}
+
+.carousel-caption p, h2{
+    color: #ECECEC;
+}
+
+#topUser h2, p{
+   text-align:justify;
+}
+
+#topUser{
+    margin-bottom: 2rem;
+}
+
+#carouselExampleDark {
+    min-width: 400px;
+    max-width: 620px;
+    padding: 0rem 3rem 0rem 3rem;
+    margin-bottom: 2rem;
+}

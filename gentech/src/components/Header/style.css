@@ -1,0 +1,23 @@
+#header{
+    padding: 0rem 20rem;
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    
+
+}#header-logo{
+    width: 200px;
+}
+.bg-body-tertiary{
+    background-color: rgba(0,0,0,0) !important;
+}
+.navbar-collapse{
+   flex-grow: 0;  
+}
+
+.nav-item{
+    margin-left: 25px;
+}
+.nav-item a{
+   color: #ECECEC;
+}

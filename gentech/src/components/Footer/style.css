@@ -1,0 +1,22 @@
+footer{
+    padding: 5rem 10rem;
+    background-color: #260D44 ;
+    color: #ECECEC;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer .left{
+    margin-left: 10rem;
+}
+
+footer ul li{
+    margin-bottom: 1rem;
+}
+#Footer-logo{
+    width: 80px;
+    margin-bottom: 1rem;
+}
+

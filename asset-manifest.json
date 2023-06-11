@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gentech/static/css/main.43b2b57b.css",
+    "main.js": "/gentech/static/js/main.d283234e.js",
+    "static/js/787.bef1144f.chunk.js": "/gentech/static/js/787.bef1144f.chunk.js",
+    "static/media/user1.png": "/gentech/static/media/user1.e77b125a38a0c423d28c.png",
+    "static/media/user2.png": "/gentech/static/media/user2.1bcb5f20e7331335bf4b.png",
+    "static/media/user.png": "/gentech/static/media/user.6cd52911dea7c79a23cf.png",
+    "static/media/mulher.png": "/gentech/static/media/mulher.ccb155bf6a740eef0cd6.png",
+    "static/media/unity.png": "/gentech/static/media/unity.2847b87db9b92d1d8333.png",
+    "static/media/logo-gentech-vertical.jpeg": "/gentech/static/media/logo-gentech-vertical.582c4ea2c89536920d2c.jpeg",
+    "static/media/logo-gentech-horizontal.png": "/gentech/static/media/logo-gentech-horizontal.ebd49ad64ac97ff0394c.png",
+    "static/media/certificate.jpeg": "/gentech/static/media/certificate.8b41182dd9cbbb4542ee.jpeg",
+    "index.html": "/gentech/index.html",
+    "main.43b2b57b.css.map": "/gentech/static/css/main.43b2b57b.css.map",
+    "main.d283234e.js.map": "/gentech/static/js/main.d283234e.js.map",
+    "787.bef1144f.chunk.js.map": "/gentech/static/js/787.bef1144f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b2b57b.css",
+    "static/js/main.d283234e.js"
+  ]
+}

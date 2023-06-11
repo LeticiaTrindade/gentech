@@ -1,0 +1,46 @@
+#courses {
+  margin: 10rem
+}
+
+.card {
+  max-width: 240px;
+  min-height: 240px;
+  border: none;
+  border-radius: 0;
+}
+
+.card .card-img-top {
+  min-width: 240px;
+  background-color: #8151B7;
+  border-radius: 0;
+}
+
+.progress {
+  height: 10px;
+  border-radius: 0px;
+}
+
+.progress-bar {
+  width: 50%;
+  background-color: #8151B7;
+}
+
+#courses button {
+  background-color: #8151B7;
+  color: white;
+  border: none;
+  border-radius: 2rem;
+  height: 50px;
+  width: 170px;
+  margin: 2rem 0rem;
+
+}
+
+@media screen and (min-width: 992px){
+
+  #courses{
+      flex-direction: row !important;
+      justify-content: space-around !important;
+  }
+
+}
