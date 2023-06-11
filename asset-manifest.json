@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gentech/static/css/main.43b2b57b.css",
-    "main.js": "/gentech/static/js/main.d283234e.js",
+    "main.css": "/gentech/static/css/main.97fb4daf.css",
+    "main.js": "/gentech/static/js/main.02ee68c2.js",
     "static/js/787.bef1144f.chunk.js": "/gentech/static/js/787.bef1144f.chunk.js",
     "static/media/user1.png": "/gentech/static/media/user1.e77b125a38a0c423d28c.png",
     "static/media/user2.png": "/gentech/static/media/user2.1bcb5f20e7331335bf4b.png",
@@ -12,12 +12,12 @@
     "static/media/logo-gentech-horizontal.png": "/gentech/static/media/logo-gentech-horizontal.ebd49ad64ac97ff0394c.png",
     "static/media/certificate.jpeg": "/gentech/static/media/certificate.8b41182dd9cbbb4542ee.jpeg",
     "index.html": "/gentech/index.html",
-    "main.43b2b57b.css.map": "/gentech/static/css/main.43b2b57b.css.map",
-    "main.d283234e.js.map": "/gentech/static/js/main.d283234e.js.map",
+    "main.97fb4daf.css.map": "/gentech/static/css/main.97fb4daf.css.map",
+    "main.02ee68c2.js.map": "/gentech/static/js/main.02ee68c2.js.map",
     "787.bef1144f.chunk.js.map": "/gentech/static/js/787.bef1144f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43b2b57b.css",
-    "static/js/main.d283234e.js"
+    "static/css/main.97fb4daf.css",
+    "static/js/main.02ee68c2.js"
   ]
 }
