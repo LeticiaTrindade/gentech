@@ -37,7 +37,7 @@ function Support() {
                     </div>
 
                     <div id="yarly">
-                        <h1>apoio mensal</h1>
+                        <h1>apoio Anual</h1>
                         <h2 className="value">R$ 100</h2>
                         <ul className="text-left">
                             <li><h3>12 pontos</h3><p>Para emitir certificados AGORA!</p></li>
